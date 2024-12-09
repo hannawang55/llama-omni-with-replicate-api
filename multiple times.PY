@@ -1,5 +1,7 @@
 ########### cmd ###########
 D:/Software/Tool/Psychopy/python.exe -m pip install replicate
+python -m venv .venv
+source .venv/bin/activate
 
 ########### py ###########
 import replicate
